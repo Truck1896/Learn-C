@@ -23,7 +23,7 @@ int main()
 }
 ```
 
-```
+```Python
 print("This is written in Python!");
 ```
 
